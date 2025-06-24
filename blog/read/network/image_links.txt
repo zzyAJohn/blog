@@ -1,4 +1,0 @@
-::: card-masonry
-![](https://oss.ajohn.top/blog/read/network/1.16.webp)
-
-:::
